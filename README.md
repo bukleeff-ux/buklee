@@ -1,76 +1,49 @@
 # Hi, I'm Buklee 👋
 
-### Telegram Bot & Mini App Developer | Web Developer | Python · JavaScript
-
-I build Telegram bots, Mini Apps, and web solutions that solve real problems — fast and reliably.
-
----
-
-## 🔧 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+Fullstack developer specialising in **Telegram bots**, **Mini Apps** and **backend APIs**.
+I build end-to-end products — from bot logic and REST APIs to interactive web interfaces.
 
 ---
 
-## 🤖 What I Build
+## 🛠 Tech Stack
 
-| Area | Details |
-|---|---|
-| **Telegram Bots** | Auto-responders, payment bots, parsers, CRM integrations, admin panels — built with aiogram |
-| **Telegram Mini Apps** | Full web apps inside Telegram: catalogs, booking forms, dashboards, games |
-| **Web Development** | Landing pages, business websites, responsive design, fast load times |
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram_3-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
----
-
-## 📌 Featured Projects
-
-### 🤖 [telegram-bot-template](https://github.com/buklee/telegram-bot-template)
-Production-ready Telegram bot starter with aiogram. Includes inline keyboards, FSM, PostgreSQL integration, and a basic admin panel.
-
-`Python` `aiogram` `PostgreSQL` `FSM`
-
----
-
-### 📱 [telegram-mini-app-demo](https://github.com/buklee/telegram-mini-app-demo)
-Demo Mini App for Telegram — a product catalog with cart and checkout flow, running inside Telegram WebView.
-
-`JavaScript` `Telegram Web Apps API` `Python backend`
+**Frontend**
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 ---
 
-### 🌐 [landing-page-starter](https://github.com/buklee/landing-page-starter)
-Clean, responsive landing page template. Mobile-first, fast loading, easy to customize for any business.
+## 🚀 Projects
 
-`HTML` `CSS` `JavaScript`
-
----
-
-### 🔍 [web-scraper-bot](https://github.com/buklee/web-scraper-bot)
-Telegram bot that monitors websites for changes and sends instant notifications. Configurable targets and check intervals.
-
-`Python` `aiogram` `BeautifulSoup` `asyncio`
+### 🎰 [Poker Tournament Bot](https://github.com/bukleeff-ux/poker-tournament-bot)
+Telegram bot + Mini App for managing offline poker tournaments. Players register in-app, admins assign results, live leaderboard with automatic point scoring.
+`python-telegram-bot` · `FastAPI` · `aiosqlite` · `Vanilla JS` · `HMAC auth`
 
 ---
 
-## 📊 GitHub Stats
-
-![Buklee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=buklee&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buklee&layout=compact&theme=dark&hide_border=true)
+### 🤖 [AI Telegram Service](https://github.com/bukleeff-ux/ai-telegram-service)
+Full-stack AI assistant as a Telegram Mini App — chat with AI, image gallery, purchase history, referral system, promo codes, rate limiting and Sentry monitoring.
+`aiogram 3` · `FastAPI` · `React 18` · `Framer Motion` · `Redis` · `YooKassa` · `PostgreSQL`
 
 ---
 
-## 📫 Let's Work Together
+### 🖥️ [PC Club Bot](https://github.com/bukleeff-ux/tgbot-pcclub)
+Telegram bot for a PC club: menu, pricing, promotions, referral info and a promo code quiz.
+`aiogram 3` · `Python`
+
+---
+
+## 📫 Contact
 
 - **Telegram:** [@buklee](https://t.me/buklee)
 - **Email:** bukleeff@gmail.com
-- **Upwork:** [Profile link — add after registration]
-- **Kwork:** [Profile link — add after registration]
-
-> Open to freelance projects. Send me your requirements and I'll get back within 24 hours.
